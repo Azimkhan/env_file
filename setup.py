@@ -7,5 +7,5 @@ setup(name='env_file',
       description='Load environment variables from file in Python 3 application ',
       author='Azimkhan Yerzhan',
       author_email='wanrossen@gmail.com',
-      packages=['env_file'],
+      py_modules=['env_file'],
       )
